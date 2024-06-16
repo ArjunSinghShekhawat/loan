@@ -1,0 +1,12 @@
+1.Data vizualizations - :
+                        I am perform data vizualizations in notebook so that 
+                        1.When the age, experiance , and current job year, current house year are all minimum then this person are highly risky.
+                        2.Maximum persons are single.
+2.model performance -:
+                        1. I am used all machine learning algoritham but the best accuracy of the algorithm is Random Forest Classifier.
+                        2. The accuracy of the model is  0.8773677248677249 and precision 0 and recall 8.154460144536728.
+
+3.understand main deciding factors associated with risk -:
+                                                        The main fector of the risk  age, experiance , and current job year, current house year will be minimum.
+
+ 
